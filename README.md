@@ -16,3 +16,6 @@ Starting in 2020 my passion for art and graphics becan in my Digital Media class
 ## Programming
 In 2022 I started getting really into coding, especially when it came to Java. I took a series of classes on it in school and ended making several fun games and just barley missing getting my certificate, I still have room for improvement but I'm very excited to learn more!
 
+<img src="https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/Programing/ChessGame.png"
+  width= "400"
+  Height= "400">
