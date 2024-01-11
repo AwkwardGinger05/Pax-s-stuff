@@ -29,7 +29,7 @@ In 2022 I started getting really into coding, especially when it came to Java. I
       <img src="https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/Programing/guessing.png"
         Height = "400"
         Width = "400">
-        <img src="  https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/Programing/screenSaver.png"
-        Height = "400"
-        Width = "400">
+
+## 3D Design/3D Graphics
+My senior year of highschool I decided to start moving towards the field I wanted to go into when I finish college, here I learned how to create 3D shapes and even how to animate them
     
