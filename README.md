@@ -8,9 +8,7 @@ Starting in 2020 my passion for art and graphics becan in my Digital Media class
 
 <img src="https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/Digital%20Media/FrameInAFrame.jpg"
   Width="400"
-  Height="400">
-
-  <video src="https://github.com/AwkwardGinger05/Pax-s-stuff/assets/70280960/de51f2a8-6135-498d-87b0-70b8d9892ca8" type="video/mp4"
+  Height="400">  <video src="https://github.com/AwkwardGinger05/Pax-s-stuff/assets/70280960/de51f2a8-6135-498d-87b0-70b8d9892ca8" type="video/mp4"
     width = "400"
     Height ="400">
 
