@@ -18,9 +18,7 @@ In 2022 I started getting really into coding, especially when it came to Java. I
 
 <img src="https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/Programing/ChessGame.png"
   width= "400"
-  Height= "400">
-
-<img src="https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/Programing/PigLatin.png"
+  Height= "400"> <img src="https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/Programing/PigLatin.png"
   width = "400"
   Height= "200"> <img src="https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/Programing/calc.png"
     Width = "200"
