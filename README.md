@@ -11,3 +11,7 @@ Starting in 2020 my passion for art and graphics becan in my Digital Media class
 <img src="https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/Digital%20Media/FrameInAFrame.jpg"
   Width="400"
   Height="400"> 
+
+<img src="https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/Digital%20Media/FrameInAFrame.jpg"
+  width ="400"
+  Height="400">
