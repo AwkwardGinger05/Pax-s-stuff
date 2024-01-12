@@ -41,7 +41,9 @@ My senior year of highschool I decided to start moving towards the field I wante
   height = "300"
   width = "400">
 <img src="https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/3D/Table_shot.jpg">
-<img src="https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/3D/Maxatron.jpg">
+<img src="https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/3D/Maxatron.jpg"
+  height = "300"
+  width = "400">
 
 video 
 video
