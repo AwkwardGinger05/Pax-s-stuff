@@ -30,7 +30,7 @@ In 2022 I started getting really into coding, especially when it came to Java. I
   width = "400"
   Height= "200"> 
     <img src="https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/Programing/etchASketch.png"
-      Height = "200"
+      Height = "300"
       Width = "400"> 
 
 ## 3D Design/3D Graphics
