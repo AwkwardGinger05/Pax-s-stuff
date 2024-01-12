@@ -9,7 +9,6 @@ Starting in 2020 my passion for art and graphics becan in my Digital Media class
 <img src="https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/Digital%20Media/FrameInAFrame.jpg"
   width ="400"
   Height="400">
-  <ul> <li> project using Photoshop to create an infinite frame </li> </ul>
 
 **video here**
 **video here**
@@ -49,5 +48,8 @@ My senior year of highschool I decided to start moving towards the field I wante
   height = "300"
   width = "400">
 
-video 
+
+<video src ="https://github.com/AwkwardGinger05/Pax-s-stuff/assets/70280960/f037a45d-2778-41d8-b4d7-b86814f0d9c9">
+
+
 video
