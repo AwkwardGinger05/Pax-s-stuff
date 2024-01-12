@@ -48,8 +48,4 @@ My senior year of highschool I decided to start moving towards the field I wante
   height = "300"
   width = "400">
 
-
 <video src ="https://github.com/AwkwardGinger05/Pax-s-stuff/assets/70280960/f037a45d-2778-41d8-b4d7-b86814f0d9c9">
-
-
-video
