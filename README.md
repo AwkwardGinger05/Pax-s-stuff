@@ -35,3 +35,4 @@ My senior year of highschool I decided to start moving towards the field I wante
 
 <img src="https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/3D/medium_log.jpg">
 <img src = "https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/3D/maxxxx.jpg">
+<img src="https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/3D/Table_shot.jpg">
