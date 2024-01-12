@@ -38,7 +38,7 @@ My senior year of highschool I decided to start moving towards the field I wante
 
 <img src="https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/3D/medium_log.jpg">
 <img src = "https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/3D/maxxxx.jpg"
-  height = "200"
+  height = "300"
   width = "400">
 <img src="https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/3D/Table_shot.jpg">
 <img src="https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/3D/Maxatron.jpg">
