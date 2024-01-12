@@ -32,4 +32,5 @@ In 2022 I started getting really into coding, especially when it came to Java. I
 
 ## 3D Design/3D Graphics
 My senior year of highschool I decided to start moving towards the field I wanted to go into when I finish college, here I learned how to create 3D shapes and even how to animate them
-    
+
+<img src="https://github.com/AwkwardGinger05/Pax-s-stuff/blob/main/3D/medium_log.jpg">
